@@ -1,9 +1,9 @@
 # Instagram Engagement Analysis
 
-## Project Overview
+## 🌟Project Overview
 This project analyzes Instagram engagement data using Python and Jupyter Notebook.
 
-## Tools Used
+##🛠️ Tools Used
 - Python
 - Pandas
 - NumPy
@@ -11,10 +11,10 @@ This project analyzes Instagram engagement data using Python and Jupyter Noteboo
 - Seaborn
 - Jupyter Notebook
 
-## Objectives
+##🎯 Objectives
 - Analyze engagement metrics
 - Identify top-performing content
 - Understand user interaction patterns
 
-## File
+##📂 File
 - Instagram Engagement Analysis Project.ipynb
